@@ -1,5 +1,7 @@
-# Beat Banger
-Here you can view the roadmap and file bug reports for the Beat Banger project
+# What is Beat Banger
+
+Beat Banger is a simple **NSFW** rhythm game created using the [Godot Engine](https://godotengine.org/). In this repository you can view the roadmap and file bug reports for the Beat Banger project.
+
 
 ## Before you file a bug report..
 Check the "Projects" tabs and veiw the "Bug Reports" kanban and make sure the issue hasn't already been created
