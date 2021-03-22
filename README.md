@@ -1,4 +1,4 @@
-# What is Beat Banger
+# Beat Banger
 
 Beat Banger is a simple **NSFW** rhythm game created using the [Godot Engine](https://godotengine.org/). In this repository you can view the roadmap and file bug reports for the Beat Banger project.
 
