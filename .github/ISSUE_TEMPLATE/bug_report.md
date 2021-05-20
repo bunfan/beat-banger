@@ -10,6 +10,9 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+**Which version of Beat Banger are you running?**
+Put version number here... EX: v0.031
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
